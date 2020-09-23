@@ -72,8 +72,9 @@ data={this.state.dataObjects}
 | onSearchTextChange      | function | Y | Function to call back when the input text change |
 | onSearchButtonClick | function     | Y| Function to call back when the search button is pressed |
 | placeholder | String   |N  | Default: 'Search...', Place holder text for the textfield |
-| data | Array |N| An array of objects that will be used to search stuff (if not passed, function will trigger back the term searched)| 
+| data | object[] |N| An array of objects that will be used to search stuff (if not passed, function will trigger back the term searched)| 
 | caseInsensitive | boolean |N| do searches without casing| 
+| keys | string[] | Y | keys of object which include in search
 
 
 
@@ -99,6 +100,4 @@ v0.2.0
 * Search bar searches through an array of objects and returns the ones that were found.
 
 
-# License 
 
-Licensed under the MIT License © [jciccio](https://www.npmjs.com/~jciccio)

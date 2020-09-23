@@ -17,8 +17,8 @@
     "build": "webpack"
   },
   "author": {
-    "name": "Jose Antonio Ciccio",
-    "email": "jciccio@gmail.com"
+    "name": "Kat Rivza",
+    "email": "pug.ekat@gmail.com"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jciccio/react-js-search"
+    "url": "https://github.com/web-omega/react-js-search"
   },
   "keywords": [
     "search",
@@ -46,5 +46,5 @@
     "react search bar"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/jciccio/react-js-search"
+  "homepage": "https://github.com/web-omega/react-js-search"
 }
