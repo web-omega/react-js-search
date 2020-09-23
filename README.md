@@ -22,7 +22,7 @@ Just click on ⭐️ button :)
 Install it from npm and include it in your React build process (using Webpack, Browserify, etc).
 
 ```
-npm i react-js-search
+npm i omega-react-js-search
 ```
 
 # Usage

@@ -1,5 +1,5 @@
 {
-  "name": "react-js-search",
+  "name": "omega-react-js-search",
   "version": "0.3.0",
   "description": "Really simple search component, plug and play where you define two callbacks that are triggered when the search text has changed or when the user clicks on the search button. It will trigger back the defined function with the typed String as param so you can filter a table, call your backend, etc. ",
   "main": "build/index.js",
